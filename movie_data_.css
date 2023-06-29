@@ -1,0 +1,20 @@
+#input{
+	height:35px;
+	width:300px;
+	float:left;
+	font-size:20px;
+	margin:15px 2px 15px 0px;
+	}
+	
+#button{
+	height:40px;
+	width:80px;
+	margin-top:15px;
+	font-size:20px;
+	background:gray;
+	color:white;
+	}
+
+#heading{
+	font-size:20px;
+	}
