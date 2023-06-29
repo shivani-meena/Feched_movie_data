@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>movie_details</title>
+		<link rel="stylesheet" href="Movie_data.css">
+	</head>
+	<body>
+		<div class="container">
+			<div id="heading"> hello Enter Movie Name:-<div>
+			<input type="text"id="input_div" placeholder="Search"></input>
+			<button type = "submit" id = "button">submit</button>
+		</div>
+		
+		<script src="Movie_data.js"></script>
+			
+	</body>
+</html>
